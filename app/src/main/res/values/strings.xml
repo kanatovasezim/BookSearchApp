@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Books search app</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="title">title</string>
+    <string name="author">author</string>
+    <string name="publish">NA</string>
+    <string name="page">0</string>
+
+
+    <string name="search">search</string>
+    <string name="hint">Enter your query </string>
+    <string name="description_image_view">Template for  the image</string>
+    <string name="description_divider">Divider</string>
+    <string name="Failed_to_Load_data">Please check your Internet Connection</string>
+    <string name="NO_RESULT">No matching results</string>
+
+</resources>
